@@ -109,3 +109,12 @@ would come back together and share what each learned. The two groups
 will have just "merged" their knowledge and everyone should have a
 better understanding of how to conduct a branch and a merge, and also
 what is going on with the underlying data structure when they do one.
+
+Oh, and by the way, when writing that last paragraph I created two new
+branches: one named "group1" and it contained the description of what
+the hypothetical group1 would do, and another called "group2" which
+contained the sentance describing that group's task. Then I merged the
+two back into the master branch, reformated the paragraph and add a
+summary.  Check out this history on github!
+
+
