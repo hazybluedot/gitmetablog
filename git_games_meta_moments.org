@@ -49,4 +49,9 @@ What I thought about while swimming, after the git game helped me
 understand why rewriting history could be so useful, and how the
 history itself could be used, was that since I'm using git to manage
 the files for ECE2524, I could also use it guide future semesters of
-the course.
+the course. Every time I add a new set of lecture notes, or add a new
+assignment, I make a commit to a git repo containing all the files
+I've used so far.  That is also recording the order in which topics
+are introduced to the class, so I'm generating an outline for the
+semester just by nature of using git for your regular garden variety
+versioning control.
