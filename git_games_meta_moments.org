@@ -99,4 +99,7 @@ when I was done.
 What if the class were split up into groups, and each group worked on
 one aspect of learning to use git's branch and merge functionality.
 For instances, Group 1 might play the git game,
+while group 2 might read about how git represents and references data and
+what is going on under the hood.
 Then the two groups come back together and share, or merge their knowledge.
+
