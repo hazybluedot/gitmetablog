@@ -80,3 +80,9 @@ something stored on a computer, of course, but looking back on the
 past few days we can recall things like "concept X made a lot more
 sense to me after I understood hypothesis Y, which became clear after
 working through exercise Z."
+
+What if we were more conscious of this process in class, and even made
+an effort to map it more directly to the concept of using git?  For
+instance, one versioning control concept we'll start to explore
+tomorrow is branching and merging.  
+
