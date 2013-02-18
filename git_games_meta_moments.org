@@ -55,3 +55,8 @@ I've used so far.  That is also recording the order in which topics
 are introduced to the class, so I'm generating an outline for the
 semester just by nature of using git for your regular garden variety
 versioning control.
+
+But I had an hour and a half to occupy my brain while I swam back and
+forth, so the wheels kept turning.  We use git for class, as those of
+you in it know, because it is an important tool for software
+development and happens to be a particularly Unix-y tool to boot.
