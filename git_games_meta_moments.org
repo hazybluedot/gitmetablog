@@ -61,3 +61,8 @@ my log files.  And then I catch more, and remove it too.  All steps
 that I really don't need to take, because git has a perfect memory of
 what trace code I added (dependent on the accuracy of my commits, of
 course).
+
+I could have saved myself a lot of time if after finally fixing bug X
+I had just told git to discard the edits I made to add trace code.
+Those bits of history don't really add any useful information to the
+project.
