@@ -38,4 +38,8 @@ possibly risky ideas, or take off on a tangent while always providing
 a clear path back to a ground point.
 
 As one example, something I find myself doing often in my own code is
-debugging a peculiar behavior.
+debugging a peculiar behavior.  This often involves adding trace code
+to my program to print out the state of certain variables during key
+parts of the program.  When I finally track down the problem and fix
+it, I go back and remove the trace code I added and my final git log
+looks something like this:
