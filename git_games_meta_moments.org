@@ -54,3 +54,10 @@ looks something like this:
 - (8) remove previously missed trace code from debugging process
 - (9) find yet more old trace code and removed it
 
+You get the idea. Being the imperfect being that I am, I don't always
+remember EVERY point I added trace code during a long debugging
+process, and so I miss some and then catch it later when I'm reviewing
+my log files.  And then I catch more, and remove it too.  All steps
+that I really don't need to take, because git has a perfect memory of
+what trace code I added (dependent on the accuracy of my commits, of
+course).
