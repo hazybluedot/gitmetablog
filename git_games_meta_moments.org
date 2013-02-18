@@ -2,7 +2,8 @@
 I had a bit of a meta moment while swimming today. I have a lot of
 good moments while swimming, probably because it's a chance for my
 mind to wander.  That's probably a good argument to go more often than
-I did this past week.  But I digress.
+I did this past week (1 out of 6 possible practice days!).  But I
+digress.
 
 Yesterday I was introduced to a [[ http://pcottle.github.com/learnGitBranching/][game of sorts]] to help learn some
 concepts used by [[http://git-scm.com/about][git]].  For those of you who don't know, git is a
@@ -95,3 +96,5 @@ git. In fact, I switched to a new branch in git when I began writing
 those sentences, and then merged them back into the main conversation
 when I was done.
 
+What if the class were split up into groups, and each group worked on
+one aspect of learning to use git's branch and merge functionality.
