@@ -11,7 +11,7 @@ over the past few years, especially in the open source community.  I
 had been using it myself for my own projects, but mainly at a very
 simplistic level.
 
-At a basic level a versioning control system (VCS), of which git is
+At one level, a versioning control system (VCS), of which git is
 one of many, is a tool to facilitate documenting the changes
 of... well, a document. Historically these systems were develped by
 software designers to both document changes and provide an easy path
