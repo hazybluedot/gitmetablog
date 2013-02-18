@@ -44,3 +44,9 @@ changes to this document, and created a branch for each of the
 examples I thought would be useful.  I'm going to leave them out of
 the final document for now, but they exist in my history, and since I
 will post this project to github, you are free to take a look!
+
+What I thought about while swimming, after the git game helped me
+understand why rewriting history could be so useful, and how the
+history itself could be used, was that since I'm using git to manage
+the files for ECE2524, I could also use it guide future semesters of
+the course.
