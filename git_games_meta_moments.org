@@ -37,6 +37,7 @@ allows an author to use git more as a tool for trying out new,
 possibly risky ideas, or take off on a tangent while always providing
 a clear path back to a ground point.
 
+** Removing Trace Code
 As one example, something I find myself doing often in my own code is
 debugging a peculiar behavior.  This often involves adding trace code
 to my program to print out the state of certain variables during key
