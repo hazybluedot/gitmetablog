@@ -86,3 +86,12 @@ an effort to map it more directly to the concept of using git?  For
 instance, one versioning control concept we'll start to explore
 tomorrow is branching and merging.  
 
+A branch can be thought of as a temporary deviation away from the main
+story line.  In fact, in my first paragraph I went off on a bit of a
+tangent about my tendency to let my mind wander while swimming.  That
+could be thought of as a branch away from the main topic, which (I
+promise) is about using git to map the journey we take to learn to use
+git. In fact, I switched to a new branch in git when I began writing
+those sentences, and then merged them back into the main conversation
+when I was done.
+
