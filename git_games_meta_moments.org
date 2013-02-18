@@ -59,4 +59,24 @@ versioning control.
 But I had an hour and a half to occupy my brain while I swam back and
 forth, so the wheels kept turning.  We use git for class, as those of
 you in it know, because it is an important tool for software
-development and happens to be a particularly Unix-y tool to boot.
+development and happens to be a particularly Unix-y tool to boot.  The
+Unix-i-ness of git is something I will leave for discussion in class
+tomorrow (oh, the suspense!).  We use git, but it is a complicated
+tool to learn, even though what it is doing is quite simple, once you
+[[http://en.wikipedia.org/wiki/Grok][grok]] it, something that doesn't always happen quickly, and never as
+quickly as you would like.
+
+But the information tracking ideas from git can be related to the
+process we go through in class, which can also be related to the
+discussion on working memory vs. long-term memory we had in [[http://gardnercampbell.wetpaint.com/page/vtclis13][vtlci]]. The
+process of learning new things involves some experimentation and a lot
+of data filtering.  We have a lot of information available to us, the
+culmination of which can be thought of as the contents of our "working
+directory" in git terms.  As we individually work through the
+information and inspect it through our own lens we commit pieces of it
+to our memory, our repository.  Though we're not actively doing it,
+there is a log associated with this process. It is not as precise as
+something stored on a computer, of course, but looking back on the
+past few days we can recall things like "concept X made a lot more
+sense to me after I understood hypothesis Y, which became clear after
+working through exercise Z."
