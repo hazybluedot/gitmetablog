@@ -44,13 +44,13 @@ parts of the program.  When I finally track down the problem and fix
 it, I go back and remove the trace code I added and my final git log
 looks something like this:
 
-- everything resolved except for bug X
-- add trace code
-- add more trace code
-- more trace code (where the heck is this thing?)
-- fix bug X!!!
-- remove trace code
-- add feature Y
-- remove previously missed trace code from debugging process
-- find yet more old trace code and removed it
+- (1) everything resolved except for bug X
+- (2) add trace code
+- (3) add more trace code
+- (4) more trace code (where the heck is this thing?)
+- (5) fix bug X!!!
+- (6) remove trace code
+- (7) add feature Y
+- (8) remove previously missed trace code from debugging process
+- (9) find yet more old trace code and removed it
 
