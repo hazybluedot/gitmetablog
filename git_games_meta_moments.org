@@ -66,4 +66,8 @@ course).
 I could have saved myself a lot of time if after finally fixing bug X
 I had just told git to discard the edits I made to add trace code.
 Those bits of history don't really add any useful information to the
-project.
+project. Once I had reached =(5)= in my history, I could have used
+=git rebase= to tell git to forget about commits =(2)=, =(3)=, and
+=(4)=.  Not only would this have removed the entries from the project
+history, but it would remove the trace code I had added during those
+steps.  All of it.
