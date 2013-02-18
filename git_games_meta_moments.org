@@ -17,4 +17,6 @@ of... well, a document. Historically these systems were develped by
 software designers to both document changes and provide an easy path
 to revert to older versions of source code. Later, similar concepts
 were implemented in modern word processors (with limited scope and
-power due to the restrictive nature of word processors).
+power due to the restrictive nature, essentially the traditional
+method of tracking edits from the pen and paper days was ported over
+to the electronic medium without much change). 
