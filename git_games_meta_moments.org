@@ -98,3 +98,4 @@ when I was done.
 
 What if the class were split up into groups, and each group worked on
 one aspect of learning to use git's branch and merge functionality.
+Then the two groups come back together and share, or merge their knowledge.
