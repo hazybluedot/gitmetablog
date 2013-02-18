@@ -36,3 +36,7 @@ it incredibly easy to do certain types of edits on your data and
 allows an author to use git more as a tool for trying out new,
 possibly risky ideas, or take off on a tangent while always providing
 a clear path back to a ground point.
+
+** Collaborating
+Let's say I'm working on a project with a colleague and while I'm
+working on feature X she is working on feature Y.
