@@ -4,4 +4,9 @@ good moments while swimming, probably because it's a chance for my
 mind to wander.  That's probably a good argument to go more often than
 I did this past week.  But I digress.
 
-Yesterday I was introduced to a [[ http://pcottle.github.com/learnGitBranching/][game of sorts]] to help learn some concepts used by [[http://git-scm.com/about][git]].
+Yesterday I was introduced to a [[ http://pcottle.github.com/learnGitBranching/][game of sorts]] to help learn some
+concepts used by [[http://git-scm.com/about][git]].  For those of you who don't know, git is a
+versioning control system that has gained quit a bit of popularity
+over the past few years, especially in the open source community.  I
+had been using it myself for my own projects, but mainly at a very
+simplistic level.
