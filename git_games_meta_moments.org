@@ -36,3 +36,11 @@ it incredibly easy to do certain types of edits on your data and
 allows an author to use git more as a tool for trying out new,
 possibly risky ideas, or take off on a tangent while always providing
 a clear path back to a ground point.
+
+The details of what these types of edits are are important, but after
+I began writing them up I realized I was losing sight of my original
+reason for writing this post!  Luckily, I have been using git to track
+changes to this document, and created a branch for each of the
+examples I thought would be useful.  I'm going to leave them out of
+the final document for now, but they exist in my history, and since I
+will post this project to github, you are free to take a look!
