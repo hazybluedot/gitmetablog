@@ -117,4 +117,9 @@ contained the sentance describing that group's task. Then I merged the
 two back into the master branch, reformated the paragraph and add a
 summary.  Check out this history on github!
 
-
+So this whole process got me thinking. Does thinkging about meta
+thoughts make it easier or more likely to think about meta thoughts in
+the future? And likewise, does it make it easier to draw comparisons
+between seemingly unrelated processes, such as learning new ideas, and
+software development, when you have a process and a vocabulary to
+describe the process of each?
