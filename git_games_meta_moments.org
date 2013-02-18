@@ -122,4 +122,4 @@ thoughts make it easier or more likely to think about meta thoughts in
 the future? And likewise, does it make it easier to draw comparisons
 between seemingly unrelated processes, such as learning new ideas, and
 software development, when you have a process and a vocabulary to
-describe the process of each?
+describe the process of each? [[http://bit.ly/YAAQ7a][I /am/ a strange loop]].
