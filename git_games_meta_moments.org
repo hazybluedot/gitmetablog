@@ -98,3 +98,5 @@ when I was done.
 
 What if the class were split up into groups, and each group worked on
 one aspect of learning to use git's branch and merge functionality.
+Group 2 might read about how git represents and references data and
+what is going on under the hood.
