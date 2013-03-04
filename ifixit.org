@@ -4,7 +4,7 @@ This past weekend ended up being the weekend of repairs as two lingering problem
 
 1. The drain pipe of my bathroom sink completely detached itself from the sink basin.
 2. The aluminum frame on the display of my laptop began peeling away
-   from the LCD panel to such an extend that I was conserned continued
+   from the LCD panel to such an extend that I was concerned continued
    use could result in cracking the front glass.
 
 #+CAPTION: This can't be good
