@@ -1,0 +1,130 @@
+#+TITLE: iBreakIt, iFixit
+
+This past weekend ended up being the weekend of repairs as two lingering problems increased to a point that they could no longer be ignored:
+
+1. The drain pipe of my bathroom sink completely detached itself from the sink basin.
+2. The aluminum frame on the display of my laptop began peeling away
+   from the LCD panel to such an extend that I was concerned continued
+   use could result in cracking the front glass.
+
+#+CAPTION: This can't be good
+#+ATTR_HTML: alt="this can't be good" width="400"
+[[https://lh5.googleusercontent.com/-y-SK2PTLXvg/UTDc-pbfFTI/AAAAAAAABOo/qbugmUOYa2Y/s1028/IMG_20130301_100011.jpg][images/IMG_20130301_100011_t.jpg]]
+
+I will spare you, dear reader, the gory details of the fix to the
+first problem (it involved a trip to the hardware store, some
+plumber's puddy and an old tooth brush) and instead focus on the
+latter.
+
+As is usually the case with these things, my trusted laptop had long
+since left its comfortable status of "covered under warrentee" when
+this issue began, and while some googling revealed that
+[[https://discussions.apple.com/thread/3717857?start%3D0&tstart%3D0][I
+am not the only one]] to experiece this phenomenon it seemed I wasn't
+going to get much loving care from Apple and I was fairly certain they
+would have made some silly claim that they couldn't do anything for
+the clearly mechanical problem because I was running Linux on my
+machine, instead of OS X (full disclosure, they probably would have
+been justified saying so in this case: one hypothesises cause of this
+problem is excessive heating of the upper left corner which breaks
+down the glue holding the aluminum backing to the LCD panel.  While a
+number of non-blasphemous, OS-X users clearly had the same problem, my
+case certainly isn't helped by the fact that two of the things that
+don't always work out-of-the-box on a new
+[[http://www.archlinux.org][Arch Linux]] install on a MBP are the fan
+control software and "sleep on lid close". As a result, there have
+been a number of times my laptop has overheated after I pulled it out
+of my bag to discover it had never gone to sleep when I put it in.
+Plus, I've definitely dropped the thing a number of times, as the
+dents and scratches indicate. Woops.  That all being said (warning:
+tangent alert), I was told of another experience in which an Apple
+tech rep thought perhaps there was a virus after seeing a [[http://www.syslinux.org/wiki/index.php/The_Syslinux_Project][syslinux]]
+boot screen pop up[fn:genius]. 
+
+[fn:genius] It does make you wonder
+[[http://oxforddictionaries.com/definition/english/genius][what
+dictionary]] Apple's marketing department was using when they came up
+with the "Genius" title. A more accurate title, with 100% more
+alliteration, would have been "Apple Automaton" since they do an
+excellent job when a problem is solvable by means of a pre-supplied
+checklist). Don't get me wrong, I think Apple's tech support is
+generally pretty good, as are their employees. And they are completely
+within their right to refuse to offer any service or advise to
+customers who have opted out of the software/hardware-as-one package
+they provide. But it doesn't (shouldn't) take a genius to determine that a
+different bootloader from Apple's default is not a virus.
+
+It would have cost $60 to have the nice folks at the campus bookstore
+take a look at it, not including any repair costs.  The
+Apple-sanctioned "fix" for this is a full replacement of the display
+assembly (which seems silly since there's really nothing wrong with
+the display), costing around $400-$600, depending on who you talk to
+(or apparently $1000 if you're dealing with Australian dollars).  Long
+story short[fn:toolate: too late], I decided I didn't have much to
+lose[fn:whattolose aside from possibly rendering my display useless],
+and some substantial costs to be saved if I attempted a DIY fix.
+
+Now, let me be very clear: The fact that I happen to have a degree
+that says "Computer Systems Engineering" in the title has little to no
+bearing on my skill set and knowledge base required for this repair.
+Honestly (and those of you who are currently pursuing a CpE degree,
+please reassure the non-engineers that this is the truth).  I say this
+because it is important that everyone know they are fully capable of
+making many of their own repairs to there various pieces of
+technology[fn:concequences: if you have ever replaced a tire on your
+car, but freak out at the idea of fixing your own computer, breifly
+consider the consequences of a botched repair job on
+both. Statistically you are much more likely to die in a horrible,
+fiery crash as the result of a bad tire replacement than a botched
+attempt at regluing your laptop screen together.  Just something to
+think about.].  The topic of technological elitism came up last year
+in a [[http://www.gedi.vt.edu/][GEDI]] course, there is concern that
+as we integrate more and more technology into our lives we are
+becoming more and more dependent on those who understand how the
+technology works.  My counter argument to that concern is that while
+there certainly /is/ more to learn and more skills involved in the
+service and repair of a computer than say, a pen and paper, there are
+many excellent resources freely available to anyone who takes the
+initiative to learn about them.  One great resource that I used for
+this particular repair is ifixit.com, a wiki-based repair manual
+containing step-by-step guides for everything from
+[[http://www.ifixit.com/Guide/Repairing%2BFarberware%2BFSTO100%2BDoor%2BHandle/11490/1][replacing
+the door handle on a toaster oven]] to various repairs of your
+[[http://www.ifixit.com/Device/Phone][smartphone]].  Since I knew if I
+had any chance of pulling this off I would need to lay the display
+flat, the guide I found most relevant to the endeavor at hand was
+[[http://www.ifixit.com/Guide/Installing%2BMacBook%2BPro%2B15-Inch%2BUnibody%2BLate%2B2008%2Band%2BEarly%2B2009%2BLCD/3561/1][Installing
+MacBook Pro 15" Unibody Late 2008 and Early 2009 LCD]].
+
+[[file:images/IMG_20130301_100415_annotated.jpg]]
+
+Supplies needed:
+
+A. [@A] The computer to be repaired
+B. mini screwdriver set
+C. Donut, preferably coconut
+D. Coffee
+E. working computer that can access [[http://ifixit.com][ifixit.com]]
+F. 5 minute epoxy
+G. T6 Torex screwdriver
+H. A reasonably heavy, flat object
+I. Stress relief
+
+[[https://plus.google.com/photos/102713723625651639398/albums/5850411489752274785?authkey%3DCJ7uq8LJtfWTRA][Step-by-step image gallery]]
+
+1. Follow the steps in the ifixit guide to remove the display assembly from the body of the laptop.
+2. Reset donut
+3. attempt to apply epoxy in gap between aluminum backing and display, apply pressure, wait for a couple hours
+4. reassemble laptop, power on and use
+5. determine that epoxy is not holding, either due to age, bad application due to limited access to the surface
+6. powerdown and re-disassemble laptop
+7. Using a heat gun to loosen the remaining adhesive around the display casing, gently pry off the aluminum backing completely
+8. This is a perfect opportunity to "pimp your mac" and add some sort of creative graphic behind the apple logo. All I could find was some engineering paper, which turned out somewhat ho-hum.
+9. attempt to remove old adhesive with acetone and/or mechanical force. give up.
+10. Working quickly, (it is 5 minute epoxy, after all) mix up a fresh batch of epoxy, apply intelligently around edge of display casing, choosing places that look least likely to cause problems if it runs over (e.g. avoid iSight camera housing)
+11. Carefully position aluminum backing back on display casing, press firmly and wipe away excess epoxy.
+12. Apply gentle pressure for 5-10 minutes, let cure for another hour or so before reassembly.
+    #+CAPTION: There are still some features of physical media that have not been replaced with their digital counter part
+    [[file:images/IMG_20130301_103658.jpg]]
+13. Re-assemble.
+14. success!
