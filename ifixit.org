@@ -1,0 +1,17 @@
+#+TITLE: iBreakIt, iFixit
+
+This past weekend ended up being the weekend of repairs as two lingering problems increased to a point that they could no longer be ignored:
+
+1. The drain pipe of my bathroom sink completely detached itself from the sink basin.
+2. The aluminum frame on the display of my laptop began peeling away
+   from the LCD panel to such an extend that I was conserned continued
+   use could result in cracking the front glass.
+
+#+CAPTION: This can't be good
+#+ATTR_HTML: alt="this can't be good" width="400"
+[[https://lh5.googleusercontent.com/-y-SK2PTLXvg/UTDc-pbfFTI/AAAAAAAABOo/qbugmUOYa2Y/s1028/IMG_20130301_100011.jpg][]]
+
+I will spare you, dear reader, the gory details of the fix to the
+first problem (it involved a trip to the hardware store, some
+plumber's puddy and an old tooth brush) and instead focus on the
+latter.
