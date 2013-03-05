@@ -1,0 +1,40 @@
+#+TITLE: Are we sacrificing creativity for content?
+
+I decided to become an engineer, before even knowing what "engineering" was,
+because of a comment my 4th grade art teacher made regarding an art
+project.  I'm pretty sure she meant it as a complement.
+
+The concept of "<insert form of creative expression here> is <insert
+sensory-related word here> math" is nothing new.  From the mathematics
+of music, to the use of perspective in visual art, there is no
+escaping the mathematical nature of the universe.  All art, no matter
+the medium, can be thought of as offering a different view of our
+underlying reality.  A different way of looking at the equations, a
+way at looking at math without even realizing it's math.
+
+Then why in the engineering curriculum is the emphasis all on the
+math?  Sure, it's important.  Knowing the math can mean the difference
+between [[http://www.youtube.com/watch?v%3DlXyG68_caV4][a bridge that collapses]][fn:beautifulfail] and one that is [[http://www.neatorama.com/2008/03/07/10-most-beautiful-bridges-in-the-world/][a functional art
+exibit]]. Or the difference between a Mars Climate Orbiter [[http://zone.ni.com/devzone/cda/pub/p/id/1353][that doesn't orbit]]
+and [[http://en.wikipedia.org/wiki/Opportunity_rover][a Mars rover that far exceeds its planned longevity]].  But it's
+still just  one view.
+
+[fn:beautifulfail] Though there is a beauty to the mathematics of this particular failure.
+
+
+If you have ever tried applying the same layering techniques using
+water colors that are commonly done with oil paints, or tried to write
+a formal cover letter in [[http://en.wikipedia.org/wiki/Iambic_tetrameter][iambic tetrameter]], you have first hand
+experience that the choice of the medium has a large impact on the
+styles and expressive techniques available to the artist.  Likewise,
+the choice of programming language has a similar affect on the
+capabilities and limitations of the programmer.
+
+[[http://www.youtube.com/watch?v%3DfgzBsIHViP4][see the code]]
+
+And on the flip side, anyone who can write a formal cover letter, or
+who is intrigued by writing one in iambic tetrameter, should learn a
+programming language or two.  It's yet another form of artisitic
+expression, one that can transform the metamedia of the computer into
+a rich, expressive statement, or produce an [[http://www.forbes.com/sites/petercohan/2012/09/27/apple-maps-six-most-epic-fails/][epic failure of both form
+and function]].
