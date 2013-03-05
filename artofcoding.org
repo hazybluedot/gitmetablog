@@ -15,7 +15,7 @@ way at looking at math without even realizing it's math.
 Then why in the engineering curriculum is the emphasis all on the
 math?  Sure, it's important.  Knowing the math can mean the difference
 between [[http://www.youtube.com/watch?v%3DlXyG68_caV4][a bridge that collapses]][fn:beautifulfail] and one that is [[http://www.neatorama.com/2008/03/07/10-most-beautiful-bridges-in-the-world/][a functional art
-exibit]]. Or the difference between a Mars Climate Orbiter [[http://zone.ni.com/devzone/cda/pub/p/id/1353][that doesn't orbit]]
+exhibit]]. Or the difference between a Mars Climate Orbiter [[http://zone.ni.com/devzone/cda/pub/p/id/1353][that doesn't orbit]]
 and [[http://en.wikipedia.org/wiki/Opportunity_rover][a Mars rover that far exceeds its planned longevity]].  But it's
 still just  one view.
 
@@ -34,7 +34,7 @@ capabilities and limitations of the programmer.
 
 And on the flip side, anyone who can write a formal cover letter, or
 who is intrigued by writing one in iambic tetrameter, should learn a
-programming language or two.  It's yet another form of artisitic
+programming language or two.  It's yet another form of artistic
 expression, one that can transform the metamedia of the computer into
 a rich, expressive statement, or produce an [[http://www.forbes.com/sites/petercohan/2012/09/27/apple-maps-six-most-epic-fails/][epic failure of both form
 and function]].
