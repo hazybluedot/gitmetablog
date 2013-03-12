@@ -1,0 +1,45 @@
+Today's hot article in the local twitterverse is a New York Times piece called [[http://www.nytimes.com/2013/03/11/technology/computer-algorithms-rely-increasingly-on-human-helpers.html?_r%3D0][Algorithms Get a Human Hand in Steering Web]]. I discovered by a tweet from [[https://twitter.com/GardnerCampbell][@GardnerCampell]], also [[https://twitter.com/mzphyz/status/311085754371674112][a beautiful retweet]] by [[https://twitter.com/mzphyz/][@mzphyz]]:
+
+#+begin_quote
+Above all: Algorithms are human constructs, embodiments of our thought & will.
+#+end_quote
+
+The article mentions a number of examples of human-in-the-loop algorithms currently being employed on the internet, notably in Twitter's search results and Google's direct information blurbs (not sure what they call them, those little in-line sub-pages that show up for certain search terms, like a(ny) specific U.S. president, for example).
+
+What I found interesting was that the tone of the article seemed to suggest that the tasks humans were doing as part of the human-algorithm hybrid system were somehow fundamentally unique to our own abilities, something that computers just could not do.  I'm not sure if this was then indented tone, but either way, I found myself disagreeing. 
+
+#+begin_quote
+Although algorithms are growing ever more powerful, fast and precise, the computers themselves are literal-minded, and context and nuance often elude them.
+#+end_quote
+
+True, but I would argue that our own brains are "literal-minded" as well, there are just layers and layers of algorithms running on our network of neurons that give the impression of something else. I think the underlying reasons we have humans in the loop are closely linked to the next sentence:
+
+#+begin_quote
+Capable as these machines are, they are not always up to deciphering the ambiguity of human language and the mystery of reasoning. 
+#+end_quote
+
+Not only is spoken language ambiguous, but we lack a solid understanding of reasoning, or how our brains work. And we, after all, are the ones programming the algorithms.
+
+In the case of the twitter search example, it struck me that all the human operator was doing was something like this:
+
+#+begin_src python
+if (search_term == 'Big Bird' and current_time is near(election_season) ):
+   context = politics
+else
+   context = 'Sesame Street'
+#+end_src
+
+which looks rather algorithmic, when written out as one.  Granted, this would be *after* applying our uniquly qualified abilities to interpret search spikes, right?
+
+#+begin_src python
+if instantaneous_average_occurrence_of('Big Bird') >= significantly_greater_than(all_time_average('Big Bird')):
+    context = find_local_context('Big Bird')
+else
+    context = 'Sesame Street'
+#+end_src
+
+Of course the =find_local_context= is a bit of a black box right now, and =significantly_greater_than= may seem a bit fuzzy, but in both cases you could imagine defining a detailed algorithm for each of those tasks... if you have a good understanding of the thought process a human would go through to solve the problem.
+
+Ultimately, humans are only "good" at deducing context and nuance because of our years of accrued experience.  We build a huge database of linked information and store it in the neural fabric of our minds.  There isn't really anything limiting us from giving current digital computers a similar ability, at least at a fundamental level, and theoretically, as our advances in hardware approach the capabilities of an "ideal computer"  (one that can simulate all other machines), /and/ our understanding of human psychology and neurology advances, we could simulate a very similar process to the one that goes on in our brains when deducing context and nuance. 
+
+The current trend of adding humans into the loop to increase the user friendliness of online algorithms has more to do with our lack of understanding of human thought than with any technical limitations posed by computers.
