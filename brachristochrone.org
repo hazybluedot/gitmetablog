@@ -1,8 +1,10 @@
 #+TITLE: As Scholars are Wont to do...
 #+TAGS: brachristocrone, mutation, expression, essense
 
-Time is an important dimension to consider when tracing the path of a media-represented concept.
-This is a theme that has stuck with me since reading Brenda Laurel's "The Six Elements and Causal Relations Among Them" and coming across this brilliant bit of prose:
+Time is an important dimension to consider when tracing the path of a
+media-represented concept.  This is a theme that has stuck with me
+since reading Brenda Laurel's "The Six Elements and Causal Relations
+Among Them" and coming across this brilliant bit of prose:
 
 #+BEGIN_QUOTE
 As scholars are wont to do, I will blame the vagaries of translation,
@@ -22,7 +24,7 @@ at the layers of representation in an attempt to reveal the essence of
 a concept encased within.
 
 It occurred to me that the same process is occurring in the sciences
-as well, although usually the bricks of representation[^david] are
+as well, although usually the bricks of representation[fn:david] are
 mathematical symbols rather than linguistic. In a moment of
 serendipity, while I was musing over the conversation of this mornings
 class, I opened a book on Nonlinear Geometric Control Theory that, a
@@ -42,7 +44,7 @@ the most elegant thus far.
 
 In 1696, [[http://en.wikipedia.org/wiki/Johann_Bernoulli][Johann Bernoulli]] asked a question that has become a classical
 problem used as motivating example for [[http://en.wikipedia.org/wiki/Calculus_of_variations][calculus of variations]] and
-rears its head again in [[http://en.wikipedia.org/wiki/Optimal_control][optimal control]][^lcp_approach]:
+rears its head again in [[http://en.wikipedia.org/wiki/Optimal_control][optimal control]][fn:lcp_approach]:
 
 #+BEGIN_QUOTE
 Given two points A and B in a vertical plane, what is the curve traced
@@ -52,7 +54,7 @@ B in the shortest time. - [[http://www-history.mcs.st-and.ac.uk/HistTopics/Brach
 
 The problem itself is older than Bernoulli: Galileo had conducted his
 own exploration in 1638 and incorrectly deduce the solution to be the
-arc of a circle.[^brachristochrone] Bernoulli's revitalization of the
+arc of a circle.[fn:brachristochrone] Bernoulli's revitalization of the
 question is what led to the first correct answer, that the solution is
 a [[http://en.wikipedia.org/wiki/Cycloid][cycloid]].
 
@@ -78,16 +80,16 @@ So it seems the path the poet takes in exploring the nature of life is
 not all that dissimilar from the path the  mathematician,
 scientist or engineer takes, only the tools differ, and even then,
 the difference is often over stated. They are all just
-different colors of bricks[^david].
+different colors of bricks[fn:david].
 
 ** References
-[^brachristochrone]: [[http://www-history.mcs.st-and.ac.uk/HistTopics/Brachistochrone.html][The brachristochrone problem]]
+[fn:brachristochrone] [[http://www-history.mcs.st-and.ac.uk/HistTopics/Brachistochrone.html][The brachristochrone problem]]
 Sussmann, Hector J. and Willems, Jan C. The brachistochrone problem and modern control theory
 
 ** Footnotes
-[^lcp_approach]: worthy of an entirely separate post, through my
+[fn:lcp_approach] worthy of an entirely separate post: through my
 digging around for more details about the [[http://www-history.mcs.st-and.ac.uk/HistTopics/Brachistochrone.html][brachistochrone problem]] I
 discovered [[http://www.math.umt.edu/tmme/.../TMME_vol5nos2and3_a1_pp.169_184.pdf][a paper]] discussing it as a Large Context Problem, an
 approach to education that is of extreme interest to me that I now have a name for!
 
-[^david]: [[https://blogs.lt.vt.edu/vtclis13/author/davidhenry/][David]], write about your brick analogy so I have something to link to!
+[fn:david] [[https://blogs.lt.vt.edu/vtclis13/author/davidhenry/][David]], write about your brick analogy so I have something to link to!
