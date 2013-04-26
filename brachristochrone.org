@@ -1,10 +1,8 @@
 #+TITLE: As Scholars are Wont to do...
 #+TAGS: brachristocrone, mutation, expression, essense
 
-On of the themes that has stuck with me through a multitude of
-discussions on a number of topics is the awareness of time as a
-dimension through which media-represented concepts travel.  The quote
-that first elicited this notion also inspired [[http://blogs.lt.vt.edu/shebang/2013/03/20/we-are-the-medium-directors-cut/][a previous post]]:
+Time is an important dimension to consider when tracing the path of a media-represented concept.
+This is a theme that has stuck with me since reading Brenda Laurel's "The Six Elements and Causal Relations Among Them" and coming across this brilliant bit of prose:
 
 #+BEGIN_QUOTE
 As scholars are wont to do, I will blame the vagaries of translation,
@@ -13,35 +11,38 @@ interpretation for this apparent lapse and proceed to advocate my own
 view. - Brenda Laurel, "The Six Elements and Causal Relations Among Them"
 #+END_QUOTE
 
-The particular idea that Laurel was referring to was one first
-explored by Aristotle and I was struck with an eerie feeling that I
-was witnessing a conversation spanning centuries and minds.  Like
-Michelangelo chipping away at a block of marble to reveal the
-sculpture hidden within, poets and philosophers carve away at the
-layers or representation in an attempt to reveal the essence of a
-concept encased within.
+Which, should be noted, already inspired  [[http://blogs.lt.vt.edu/shebang/2013/03/20/we-are-the-medium-directors-cut/][a previous post]].
 
-It occurred to me that the same process is going on in the sciences as
-well, although usually the bricks of representation are mathematical
-symbols rather than linguistic. In a moment of serendipity, while I
-was musing over the conversation of this mornings class, I opened a
-book on Nonlinear Geometric Control Theory that I had checked out of
-the library a while back on a whim.  If the title confuses you, rest
-assure, it does me as well.  This is not a topic I am to familiar
-with, but for a reason I can not fully explain, ever since I was
-introduced very briefly introduced to [[http://en.wikipedia.org/wiki/Differential_form][differential forms]] in a real
-analysis class I felt the language of [[http://en.wikipedia.org/wiki/Differential_geometry][differential geometry]] had the
-potential for elegant representations of optimal control problems.
-Low and behold, I opened this book and immediately saw a paper in
-which the authors, Sussmann and Willems, explored different
-representations of the [[http://www-history.mcs.st-and.ac.uk/HistTopics/Brachistochrone.html][brachistochrone problem]], concluding with a
-differential-geometric approach that they claimed is the most elegant
-thus far.
+The particular idea that Laurel was referring to was one first
+explored by Aristotle over 2000 years prior, and I was struck with an
+eerie feeling that I was pulled into a conversation spanning millennia
+as well as minds.  Like Michelangelo chipping away at a block of marble to
+reveal the sculpture hidden within, poets and philosophers carve away
+at the layers of representation in an attempt to reveal the essence of
+a concept encased within.
+
+It occurred to me that the same process is occurring in the sciences
+as well, although usually the bricks of representation[^david] are
+mathematical symbols rather than linguistic. In a moment of
+serendipity, while I was musing over the conversation of this mornings
+class, I opened a book on Nonlinear Geometric Control Theory that, a
+few weeks back, I had checked out of the library on a whim.  If the
+title means little to you, rest assure, it does me as well.  This is
+not a topic I am to familiar with, but for a reason I can not fully
+explain, ever since I was introduced very briefly to [[http://en.wikipedia.org/wiki/Differential_form][differential
+forms]] in a [[http://en.wikipedia.org/wiki/Real_analysis][real analysis]] class I suspected that the language of
+[[http://en.wikipedia.org/wiki/Differential_geometry][differential geometry]] had the potential for elegant representations of
+optimal control problems.  Low and behold, I opened this book and
+immediately saw a paper in which the authors, Sussmann and Willems,
+explored several representations of the [[http://www-history.mcs.st-and.ac.uk/HistTopics/Brachistochrone.html][brachistochrone problem]],
+concluding with a differential-geometric approach that they claimed as
+the most elegant thus far.
+
+** The brachristochrone problem
 
 In 1696, [[http://en.wikipedia.org/wiki/Johann_Bernoulli][Johann Bernoulli]] asked a question that has become a classical
-problem used as the motivating example for [[http://en.wikipedia.org/wiki/Calculus_of_variations][calculus of variations]] and
-rears its head again in [[http://en.wikipedia.org/wiki/Optimal_control][optimal control]][^lcp_approach]. The question
-he asked was:
+problem used as motivating example for [[http://en.wikipedia.org/wiki/Calculus_of_variations][calculus of variations]] and
+rears its head again in [[http://en.wikipedia.org/wiki/Optimal_control][optimal control]][^lcp_approach]:
 
 #+BEGIN_QUOTE
 Given two points A and B in a vertical plane, what is the curve traced
@@ -49,10 +50,11 @@ out by a point acted on only by gravity, which starts at A and reaches
 B in the shortest time. - [[http://www-history.mcs.st-and.ac.uk/HistTopics/Brachistochrone.html][The bracristochrone problem]]
 #+END_QUOTE
 
-The problem itself is older than Bernoulli: Galileo had explored the
-problem in 1638 and incorrectly deduce the solution to be the arc of a
-circle.[^brachristochrone] Bernoulli's revitalization of the question is what led to the
-first correct answer, that the solution is a [[http://en.wikipedia.org/wiki/Cycloid][cycloid]].
+The problem itself is older than Bernoulli: Galileo had conducted his
+own exploration in 1638 and incorrectly deduce the solution to be the
+arc of a circle.[^brachristochrone] Bernoulli's revitalization of the
+question is what led to the first correct answer, that the solution is
+a [[http://en.wikipedia.org/wiki/Cycloid][cycloid]].
 
 Sussmann and Willems summarize the various solutions to the problem as follows:
 
