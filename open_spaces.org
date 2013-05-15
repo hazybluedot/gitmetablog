@@ -30,10 +30,10 @@ itself, and any imposed structure between peers that imposes some sort
 of hierarchy, or the notion of an "elder".
 
 ** The Linux Kernel
-It has been several decades since Linus Torvalds [[https://groups.google.com/forum/?fromgroups%3D#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ][original announcement]]
+It has been several decades since Linus Torvalds' [[https://groups.google.com/forum/?fromgroups%3D#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ][original announcement]]
 of his new operating system:
 
-#+begin_quote
+#+begin_example
 From: torvalds@klaava.Helsinki.FI (Linus Benedict Torvalds)
   Newsgroups: comp.os.minix
   Subject: What would you like to see most in minix?
@@ -49,7 +49,7 @@ From: torvalds@klaava.Helsinki.FI (Linus Benedict Torvalds)
   things people like/dislike in minix, as my OS resembles it somewhat
   (same physical layout of the file-system (due to practical reasons)
   among other things).
-#+end_quote
+#+end_example
 
 since that time the [[https://www.kernel.org/][Linux kernel]] project has grown to be the largest
 collaborative endeavor in the history of computing. According to one
@@ -162,7 +162,7 @@ vouch for others.  Unlike references, vouching is intended to ONLY
 apply to people who have met face-to-face, though the enforcement of
 that rule is left to the community itself.
 
-** ivanillich.net
+** illichvillich.net
 The greatest challenge I have faced in the creation of a space for
 learning has been to identify which aspects of the previously
 mentioned successful virtual communities should be integrated, and how.
