@@ -1,0 +1,84 @@
+#+TITLE: Making Space
+#+TAGS: ece25234s13, vtclis13, linux, open source, illich, deschooling, learning
+
+#+begin_quote
+How to go about creating a space that facilitates learning? As we
+learned from Morningstar and Farmer, there is a danger of
+over-designing the space and often the users don't end up using the
+space in the way the designered intended.  So we shouldn't
+over-design. But there should probably be some kind of structure,
+right? Or why create the space at all? - my brain
+#+end_quote
+
+These are some of the thoughts that were going through my head as I
+set out to build my final project.  Throughout the semester a common
+focus of mine has been the lack of a space in my own field (Electrical
+& Computer Engineering) to facilitate making connections between the
+work that goes on in the department, both teaching and research, and
+the outside world.
+
+I also became interested in many of the ideas Ivan Illich presented in
+[[http://deschoolingsociety.digress.it/learning-webs/][chapter 6]] of "[[http://deschoolingsociety.digress.it/][Descooling Society]]". Specifically, how would we go about
+creating a network to facilitate skill exchange and peer matching?
+Once we have a peer-to-peer network of learners, what role does an
+"elder" have, and how does one become an elder?
+
+I began by looking at some exiting peer networks and online
+communities that I have had either direct or indicrect involvement in
+to see how they addressed the questions of structure, but in the space
+itself, and any imposed structure between peers that imposes some sort
+of hierarchy, or the notion of an "elder".
+
+** The Linux Kernel
+It has been several decades since Linus Torvalds [[https://groups.google.com/forum/?fromgroups%3D#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ][original announcement]]
+of his new operating system:
+
+#+begin_quote
+From: torvalds@klaava.Helsinki.FI (Linus Benedict Torvalds)
+  Newsgroups: comp.os.minix
+  Subject: What would you like to see most in minix?
+  Summary: small poll for my new operating system
+  Date: 25 Aug 91 20:57:08 GMT
+  Organization: University of Helsinki
+
+  Hello everybody out there using minix -
+
+  I'm doing a (free) operating system (just a hobby, won't be big and
+  professional like gnu) for 386(486) AT clones.  This has been brewing
+  since april, and is starting to get ready.  I'd like any feedback on
+  things people like/dislike in minix, as my OS resembles it somewhat
+  (same physical layout of the file-system (due to practical reasons)
+  among other things).
+#+end_quote
+
+since that time the [[https://www.kernel.org/][Linux kernel]] project has grown to be the largest
+collaborative endeavor in the history of computing. According to one
+measure, there were 1,316 developers envolved with the version 3.2
+release, each contributing an average of 10,935 lines of code to the
+project. The clip found on the linxfoundation's website summarizes how
+this trumendous feat is possible:
+
+http://youtu.be/yVpbFMhOAwE?t=1m43s
+
+There is a fairly simple and effective hierarchy in place: indivdual
+developers submit patches to senior kernel developer who in turn
+review and sign off on patches before sending onward to Linus Torvalds
+for final approval.  This is the most dictatorship-like model of any
+of the networks I looked at, but I think it makes a lot of sense. The
+stability and usefulness of the Linux kernel depends on all 15 million
+lines of code working well with one another, a more ad-hoc "allow
+everyone to contribute, fix errors later" method such as the one
+embodied by wikipedia probably wouldn't be effective for this project.
+It's worth noting that the rather strict structure doesn't prevent
+people from maintaining and contributing to forks of the kernel other
+than the one maintained by Torvalds. In fact, up until recently,
+[[http://www.zdnet.com/blog/open-source/linus-torvalds-on-android-the-linux-fork/9426][Google maintained its own fork]] of the kernel for it's Android
+operating system.
+
+** github.com
+
+** stackoverflow.com
+
+** couchsurging.net
+
+** illichvillich.net
