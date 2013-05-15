@@ -1,4 +1,5 @@
 #+TITLE: Open Source in The Final Frontier
+#+TAGS: ece2524, vtclis13, linux, open source, gpl, nasa, iss
 
 There have been a [[https://blogs.lt.vt.edu/hussaino/2013/05/15/linux-dominating-space/][couple]] of blog posts recently referencing the recent
 switch [[http://www.nasa.gov/][NASA]] made from Windows to [[http://www.debian.org/][Debian 6]], a [[http://www.gnu.org/gnu/linux-and-gnu.html][GNU/Linux]] distribution,
