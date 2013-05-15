@@ -71,14 +71,92 @@ everyone to contribute, fix errors later" method such as the one
 embodied by wikipedia probably wouldn't be effective for this project.
 It's worth noting that the rather strict structure doesn't prevent
 people from maintaining and contributing to forks of the kernel other
-than the one maintained by Torvalds. In fact, up until recently,
+than the one maintained by Torvalds. In fact, [[http://www.zdnet.com/blog/open-source/android-and-linux-re-merge-into-one-operating-system/10625][up until recently]],
 [[http://www.zdnet.com/blog/open-source/linus-torvalds-on-android-the-linux-fork/9426][Google maintained its own fork]] of the kernel for it's Android
 operating system.
 
 ** github.com
+The versioning control tool =git= was created by the Linux development
+community in response to changes in the relationship between the open
+source community and the company responsible for BitKeeper, the
+versioning control system used up until 2005[fn:git_history]. A
+versioning control system and =git= in particular, gives developers a
+powerful tool with which to track changes to software projects and
+facilitates collaboration by automating to the extent possible, the
+workflow required to review changes made by contributers and merge
+them into one version. But to become a contributor, or find open
+source projects of interest, you need to know where to look. [[https://github.com/][GitHub]]
+provides a hosting service for projects using the =git= revision
+control system as well as some social-networking features to help
+users connect with developers and projects that interest them. Users
+create [[https://github.com/hazybluedot][profiles]], much like they would on other social networking
+sites, but rather than posts about current gastronomic adventures,
+GitHub generates feeds of updates and changes made to various software
+projects. 
+
+There isn't really a notion of a uniform social hierarchy, as everyone
+is the maintainer of their own project, and may act as contributor to
+any other project.  Indivudal projects may be [[https://github.com/explore]["trending" or "featured"]]
+depending on activity.
+
+[fn:git_history] http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git
 
 ** stackoverflow.com
+Still on the geek theme, stackoverflow is an invaluable resource to
+many software developers, novice or advanced.  Organized into a
+questiona and answer format, anyone can post a question or an answer
+and the site [[http://stackoverflow.com/about][provides tools]] to improve the quality of questions and
+upvote helpful answers.  There is a notion of currency, called
+"reputation", that members earn through participating on the site.
+Gaining reputation can unlock certain [[http://stackoverflow.com/privileges][privileges]] that are not
+available to all users.  With enough reputation, individuals can be
+elivated to [[http://stackoverflow.com/users?tab%3Dmoderators][moderator]] status, a role I would associate with Illich's
+notion of an "elder".
 
-** couchsurging.net
+** couchsurfing.net
+Up until this point the sites I've surveyed have been what we would
+generally refer to "virtual" spaces.  The communities and interactions
+exist primarily in cyberspace.  [[https://www.couchsurfing.org][Couchsurfing]] is a bit different. At
+its core it is a network of travelers who open their homes to other
+travelers to provide a uniquely personal and rewarding experience not
+available from hotels or other travel industry offerings.  It is
+focused on helping people explore the world by connecting with other
+people in a particular geographic area, remote or local, so many of
+the interactions take place in the "real" world.  However, a thriving
+virtual community is also an integral part of the couchsurfing
+experience in the form of discussion forums organized into groups of
+free formed topics ranging from [[https://www.couchsurfing.org/n/places/blacksburg-virginia-united-states][geographic areas]], to helping each
+other [[https://www.couchsurfing.org/group.html?gid%3D21491][learn new languages]], to [[https://www.couchsurfing.org/group.html?gid%3D592][everything]] [[https://www.couchsurfing.org/group.html?gid%3D2080][in]] [[https://www.couchsurfing.org/group.html?gid%3D1302][between]].
 
-** illichvillich.net
+One of the first questions asked by couch surfing skeptics is "is it
+safe"?  There seems to be a common fear amongst those who do not couch
+surf that most strangers are creeps who would sooner steal your wallet
+than let you stay for free on their couch.  While most of thouse who
+join couchsurfing do so because they naturally have a more optimistic
+view of humanity, safety is definitely [[https://www.couchsurfing.org/n/help][a high priority]]. And a clear
+set of [[https://www.couchsurfing.org/n/guidelines][community guidelines]] are published to help ensure everyone has
+a safe, enjoyable experience.
+
+Most importantly though, is the system of references in place that
+enable members to rate the experience they had with other members.
+References themselves do not directly lead to any increased privledges
+in the community: members are free to use the information as they see
+fit. Some opt to only host or otherwise connect with people who have
+received a lot of positive references while others will accept hosts
+or guests with few or no references.  I have never come across a
+profile with negative references.  I suspect that this is not because
+there are no negative experiences (in fact I have heard of a couple
+from first-hand witnesses), but that people with negative references
+don't last long in the community.  While there are many people who
+would help those new members who do not have any references yet, I
+think few would choose to welcome someone who has violated the spirit
+of couchsurfing in some way.
+
+Separate but related to the reference system is the [[https://www.couchsurfing.org/vouch.html][vouching]]
+system. This is a more formalized approach to forming trust networks
+and is a more integral part of the structure of the site in that being
+vouched for can grant certain privledges, namely, the ability to
+vouche for others.  Unlike references, vouching is intended to ONLY
+apply to people who have met face-to-face, though the enforcement of
+that rule is left to the community itself.
+
