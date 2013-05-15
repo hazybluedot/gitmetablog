@@ -11,7 +11,7 @@ right? Or why create the space at all? - my brain
 #+end_quote
 
 These are some of the thoughts that were going through my head as I
-set out to build my final project.  Throughout the semester a common
+set out to plan my final project.  Throughout the semester a common
 focus of mine has been the lack of a space in my own field (Electrical
 & Computer Engineering) to facilitate making connections between the
 work that goes on in the department, both teaching and research, and
@@ -114,6 +114,8 @@ elevated to [[http://stackoverflow.com/users?tab%3Dmoderators][moderator]] statu
 notion of an "elder".
 
 ** couchsurfing.net
+http://www.youtube.com/watch?feature=player_embedded&v=Lr_VNUTvOeQ
+
 Up until this point the sites I've surveyed have been what we would
 generally refer to "virtual" spaces.  The communities and interactions
 exist primarily in cyberspace.  [[https://www.couchsurfing.org][Couchsurfing]] is a bit different. At
@@ -159,4 +161,90 @@ vouched for can grant certain privileges, namely, the ability to
 vouch for others.  Unlike references, vouching is intended to ONLY
 apply to people who have met face-to-face, though the enforcement of
 that rule is left to the community itself.
+
+
+** ivanillich.net
+The greatest challenge I have faced in the creation of a space for
+learning has been to identify which aspects of the previously
+mentioned sucessful virtual communities should be integrated, and how.
+At its core, the insperation came from my understanding of the role
+[[http://www.umich.edu/~ece/student_projects/coffee/][english coffee houses]] played in the 17th and 18th century. While the
+idea of gathering around a particular beverage was not unknown at the
+time, the precursure to coffee was ale and along with the switch from
+a depresant to a stimulant also came a marked change in the
+intellectual culture surrounding these popular gather spots.  People
+from all walks of life were able to mingle and share ideas and the
+space became an intellectual breeding ground separate, but connected
+with the universities of the time. I can only imagine that without any
+set curriculum the topics of discussion varied greatly with the
+interest of the participants and the local events of the time.
+
+It goes without saying then (and yet, here I am, saying it), that
+topics must be defined and controlled by the members. But I don't want
+to create yet another forum site.
+
+Of the [[http://deschoolingsociety.digress.it/learning-webs/#24][four networks]] defined by Illich to enable his vision of a
+deschooled society:
+
+- Reference Services to Educational Objects
+- Skill Exchanges
+- Peer-Matching
+- Reference Services to Educators-at-Large
+
+I was most interested in building a Skill Exchange and Peer-Matching
+network.  I feel that if I can create a space that is successful in
+that goal, the two "Reference Services" networks should follow
+organically, as it seems the primary challenge there is collecting the
+information, there are already well defined implementations of
+"reference services".
+
+On the face of it, implementing a skill exchange and peer-matching
+network is just a matter of defining a data structure that can
+associate a set of skills with a particular individual and then an
+algorithm that will match people who have mutual skill-learning
+interests.  That's the easy part.  The challenge, which was brought up
+during the final presentation day, is that most people are probably
+not going to want to spend any amount of time entering individual
+skills and interests they have and those they want to learn.  Ideally
+all a user would need to provide are links to existing blogging and
+micro-blogging feeds, in which case we would need an algorithm that
+would parse content that is already being created by each user to
+determine skill sets and interests.  This is the challenge, and a
+complete lexigraphic analysis is well beyond my current knoweldge of
+algorithm design.  What would be relatively straight forward is
+grabing tags from existing structured feeds that provide that
+information.  It would still depend on self-reporting, but ideally
+self-reporting that is already being done anyway.
+
+The /real/ challenge has been to figure out what more to do.  What I
+have mentioned so far would be useful, but not particularly uniqu. In
+fact, couchsurfing already has a notion of "Learn, Teach, Share" built
+into the profiles, though the system doesn't really facilitate
+searching for people based on that information.  The more I have
+talked with Illich enthusiasts, the more it becomes clear that the
+real potential lies in creating more of a platform for exploring
+ideas, rather than just a repository of information.  The last
+brainstorming session I had quickly turned from the details of setting
+up a skill exchange network to the much more difficult questions of
+
+- how is a unit of information stored?
+- who decides what a unit of information is?
+- how are individual units of information connected with one another?
+- how does a user effectively navigate a space of interconnected units of information?
+- how does a user track their personal path through a network of information nodes?
+- how does a user share their path through a network of information nodes?
+- who writes the information nodes?
+- should nodes have structural support for quizes/practice exercises
+  to help learners decide if they have mastered a particular topic
+  well enough to move on to another?
+
+And then implementation details involved with all of those are of
+course somewhat overwhelming at this point.
+
+I plan to have another brainstorming session tonight, with a different
+group of hackers and see were these ideas lead.  In the mean time, I
+will continue to get a working implementation of a basic
+skill-matching network up at [[http://www.illichvillich.net/][illichvillich.net]], just as soon as I'm
+finished posting final grades.
+
 
