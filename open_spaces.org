@@ -162,16 +162,15 @@ vouch for others.  Unlike references, vouching is intended to ONLY
 apply to people who have met face-to-face, though the enforcement of
 that rule is left to the community itself.
 
-
 ** ivanillich.net
 The greatest challenge I have faced in the creation of a space for
 learning has been to identify which aspects of the previously
-mentioned sucessful virtual communities should be integrated, and how.
-At its core, the insperation came from my understanding of the role
+mentioned successful virtual communities should be integrated, and how.
+At its core, the inspiration came from my understanding of the role
 [[http://www.umich.edu/~ece/student_projects/coffee/][english coffee houses]] played in the 17th and 18th century. While the
 idea of gathering around a particular beverage was not unknown at the
-time, the precursure to coffee was ale and along with the switch from
-a depresant to a stimulant also came a marked change in the
+time, the precursor to coffee was ale and along with the switch from
+a depressant to a stimulant also came a marked change in the
 intellectual culture surrounding these popular gather spots.  People
 from all walks of life were able to mingle and share ideas and the
 space became an intellectual breeding ground separate, but connected
@@ -210,14 +209,14 @@ all a user would need to provide are links to existing blogging and
 micro-blogging feeds, in which case we would need an algorithm that
 would parse content that is already being created by each user to
 determine skill sets and interests.  This is the challenge, and a
-complete lexigraphic analysis is well beyond my current knoweldge of
+complete lexicographic analysis is well beyond my current knowledge of
 algorithm design.  What would be relatively straight forward is
-grabing tags from existing structured feeds that provide that
+grabbing tags from existing structured feeds that provide that
 information.  It would still depend on self-reporting, but ideally
 self-reporting that is already being done anyway.
 
 The /real/ challenge has been to figure out what more to do.  What I
-have mentioned so far would be useful, but not particularly uniqu. In
+have mentioned so far would be useful, but not particularly unique. In
 fact, couchsurfing already has a notion of "Learn, Teach, Share" built
 into the profiles, though the system doesn't really facilitate
 searching for people based on that information.  The more I have
@@ -234,7 +233,7 @@ up a skill exchange network to the much more difficult questions of
 - how does a user track their personal path through a network of information nodes?
 - how does a user share their path through a network of information nodes?
 - who writes the information nodes?
-- should nodes have structural support for quizes/practice exercises
+- should nodes have structural support for quizzes/practice exercises
   to help learners decide if they have mastered a particular topic
   well enough to move on to another?
 
@@ -246,5 +245,3 @@ group of hackers and see were these ideas lead.  In the mean time, I
 will continue to get a working implementation of a basic
 skill-matching network up at [[http://www.illichvillich.net/][illichvillich.net]], just as soon as I'm
 finished posting final grades.
-
-
