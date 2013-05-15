@@ -31,3 +31,21 @@
 Putting a price on the good things in life can corrupt them ... markets don’t only allocate goods, they express and promote certain attitudes toward the goods being exchanged.
 - http://articles.marketwatch.com/2013-04-29/commentary/38851356_1_capitalism-market-triumphalism-values/2
 #+END_QUOTE
+
+#+BEGIN_EXAMPLE
+ ______________________________________ 
+/ The Macintosh is Xerox technology at \
+\ its best.                            /
+ -------------------------------------- 
+   \
+    \        .
+     .---.  //
+    Y|o o|Y// 
+   /_(i=i)K/ 
+   ~()~*~()~  
+    (_)-(_)   
+
+     Darth 
+     Vader    
+     koala 
+#+END_EXAMPLE
