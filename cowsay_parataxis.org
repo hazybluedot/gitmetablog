@@ -1,0 +1,33 @@
+#+BEGIN_EXAMPLE
+ ________________________________________ 
+/ <JHM> AIX - the Unix from the universe \
+\ where Spock has a beard.               /
+ ---------------------------------------- 
+  \
+   \   \
+        \ /\
+        ( )
+      .( o ).
+
+#+END_EXAMPLE
+
+#+BEGIN_EXAMPLE
+ __________________________________ 
+/ They can't stop us... we're on a \
+| mission from God!                |
+|                                  |
+\ -- The Blues Brothers            /
+ ---------------------------------- 
+     \
+      \  (__)  
+         (\/)  
+  /-------\/    
+ / | 666 ||    
+*  ||----||      
+   ~~    ~~   
+#+END_EXAMPLE
+
+#+BEGIN_QUOTE
+Putting a price on the good things in life can corrupt them ... markets don’t only allocate goods, they express and promote certain attitudes toward the goods being exchanged.
+- http://articles.marketwatch.com/2013-04-29/commentary/38851356_1_capitalism-market-triumphalism-values/2
+#+END_QUOTE
